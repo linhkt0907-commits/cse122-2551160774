@@ -1,0 +1,44 @@
+body{
+font-family:"Segoe UI",Arial,sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+text-align: center;
+}
+
+.khung-tho{
+width: 640px;
+padding:24px;
+background-color: #FFFDE7;
+border:  1px solid #9E9E9E; 
+}
+
+h1{
+color: #D40000;
+background-color: #FFD9E6;
+font-size: 26px; 
+padding: 6px 0;
+margin: 0 0 20px; 
+}
+
+.khoxanh{
+color: #0033CC; 
+line-height: 1.7;
+font-style:italic;
+}
+
+.khodo{
+color: #D40000;
+line-height: 1.7;
+font-style:italic;
+}
+
+hr{
+border:none;
+width: 55%;
+height: 1px;
+background-color:blue;
+margin: 15px auto;
+transform: scaleY(0.5);
+}
